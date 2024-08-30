@@ -4,11 +4,13 @@ const user = {
     contact: { 
         email: "sergeydoronin199722",
         phone: {
-            mobile: "+998911921079",
-            home: "+99712837696"
+        house: "2997007",
+            work: {
+                work_phone: "1111111111"
+            },
+            personal: {
+                personal_phone: "2222222222"
+            }
         }    
     }
 }
-
-console.log(user.name)
-console.log(user.age)

@@ -5,9 +5,13 @@
       "contact": {
         "email": "sergeydoronin199722@gmail.com",
         "phone": {
-          "mobile": "+998911921079",
-          "home": "+99712837696"
+            "work": {
+                "work-phone": "1111111111"
+            },
+            "personal": {
+                "personal-phone": "2222222222"
+            }
         }
       }
     }
-  }
+}
