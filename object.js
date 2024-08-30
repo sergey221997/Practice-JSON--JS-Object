@@ -1,16 +1,21 @@
 const user = {
     name: 'Sergey',
+    surname: 'Doronin',
     age: 27,
+    country: "Uzbekistan",
+
     contact: { 
-        email: "sergeydoronin199722",
+        email_one: "sergeydoronin199722",
+        email_two: "serj.7007@mail.ru",
+
         phone: {
-        house: "2997007",
             work: {
-                work_phone: "1111111111"
+                work_phone: "111111111"
             },
+
             personal: {
                 personal_phone: "2222222222"
             }
-        }    
+        }
     }
 }

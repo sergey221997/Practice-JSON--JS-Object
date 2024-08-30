@@ -1,17 +1,24 @@
 {
     "user": {
-      "age": 27,
-      "name": "Sergey",
-      "contact": {
-        "email": "sergeydoronin199722@gmail.com",
-        "phone": {
-            "work": {
-                "work-phone": "1111111111"
-            },
-            "personal": {
-                "personal-phone": "2222222222"
+        "name": "Sergey",
+        "surname": "Doronin",
+        "age": 27,
+        "country": "Uzbekistan",
+        
+        "contact": {
+            "email_one": "sergeydoronin199722@gmail.com",
+            "email_two": "serj.7007@mail.ru",
+
+            "phone": {
+                "work": {
+                    "work_phone": "111111111"
+                },
+
+                "personal": {
+                    "personal_phone": "2222222222"
+                }
             }
+
         }
-      }
     }
 }
