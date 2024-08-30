@@ -18,7 +18,24 @@
                     "personal_phone": "2222222222"
                 }
             }
+        },
 
-        }
+        "car": [
+            {
+                "name": "BMW",
+                "age": 2,
+                "country": "Germany"
+            },
+            {
+                "name": "Lada",
+                "age": "1",
+                "country": ["Russian", "China", "Japan"]
+            },
+            {
+                "name": "Audi",
+                "age": 3,
+                "country": "Italy"
+            }
+        ]
     }
 }
