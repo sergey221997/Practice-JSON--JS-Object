@@ -10,7 +10,7 @@ const user = {
 
         phone: {
             home: {
-                home_phone: "+998712837696"
+                home_phone: ["+998712837696", "+998712997007", "+998717777777"]
             },
 
             personal: {
@@ -19,3 +19,12 @@ const user = {
         }
     }
 }
+
+console.log(user)
+console.log(user.name)
+console.log(user.country)
+console.log(user.contact)
+console.log(user.contact.email_one)
+console.log(user.contact.phone)
+console.log(user.contact.phone.personal)
+console.log(user.contact.phone.home.home_phone[2])
