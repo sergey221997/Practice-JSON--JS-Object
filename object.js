@@ -9,12 +9,12 @@ const user = {
         email_two: "serj.7007@mail.ru",
 
         phone: {
-            work: {
-                work_phone: "111111111"
+            home: {
+                home_phone: "111111111"
             },
 
             personal: {
-                personal_phone: "2222222222"
+                personal_phone: "+998911921079"
             }
         }
     }
