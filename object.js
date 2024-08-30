@@ -10,7 +10,7 @@ const user = {
 
         phone: {
             home: {
-                home_phone: "111111111"
+                home_phone: "+998712837696"
             },
 
             personal: {
