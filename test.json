@@ -1,0 +1,14 @@
+{
+    "user": {
+      "id": 123,
+      "name": "Sergey",
+      "contact": {
+        "email": "sergeydoronin199722@gmail.com",
+        "phone": {
+          "mobile": "+998911921079",
+          "home": "+99712837696"
+        }
+      }
+    }
+  }
+  
