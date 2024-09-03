@@ -3,9 +3,10 @@ const user = {
     surname: 'Doronin',
     age: 27,
     country: "Uzbekistan",
+    "test test": [1, 258, 1569],
 
     contact: { 
-        email_one: "sergeydoronin199722",
+        "email one": "sergeydoronin199722",
         email_two: "serj.7007@mail.ru",
 
         phone: {
@@ -40,13 +41,20 @@ const user = {
     ]
 }
 
-console.log(user)
-console.log(user.name)
-console.log(user.country)
+// console.log(user)
+// console.log(user.name)
+// console.log(user.country)
+// console.log(user.contact)
+// console.log(user.contact.email_one)
+// console.log(user.contact.phone)
+// console.log(user.contact.phone.personal)
+// console.log(user.contact.phone.home.home_phone[2])
+// console.log(user.car[1])
+// console.log(user.car[1].country[2])
+
+
+// console.log(user['age'])
+// console.log(user['contact']["email one"])
+// console.log(user['n']["2"])
+// console.log(user['test test'][1])
 console.log(user.contact)
-console.log(user.contact.email_one)
-console.log(user.contact.phone)
-console.log(user.contact.phone.personal)
-console.log(user.contact.phone.home.home_phone[2])
-console.log(user.car[1])
-console.log(user.car[1].country[2])
